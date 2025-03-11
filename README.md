@@ -5,7 +5,7 @@
 
 - 👯 Projects I have worked on during my studies. [Fix-Sci-Web Application](https://www.figma.com/design/IS2bJEwio9djtxDta8dcF1/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%A1?node-id=0-1&t=1o8RJuhYnabnuBsT-1)
 
-- 🤝 Projects I have worked on during my studies. [เรื่องเมี้ยวๆ - MoblieApp](https://www.figma.com/design/vDRqg7h1AQDFczXLk0Qa3Y/App-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B9%86?node-id=0-1&t=Q9Mah8fWHGsqxDRE-1)
+- 🤝 Projects I have worked on during my studies. [เรื่องเมี้ยวๆ - MobileApp](https://www.figma.com/design/vDRqg7h1AQDFczXLk0Qa3Y/App-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B9%86?node-id=0-1&t=Q9Mah8fWHGsqxDRE-1)
 
 - 📫 How to reach me **Chomphoo2546@gmail.com**
 
